@@ -1,0 +1,14 @@
+<resources>
+    <!-- Business Title and Description Stuff -->
+    <string name="app_name">YUMMY WAKAME</string>
+    <string name="title"><![CDATA[WEB & APP\nDesign & Development]]></string>
+    <string name="description">Product-centered web &amp; mobile apps that improve our world.</string>
+    <string name="hours">Mon - Fri, 9am - 6pm</string>
+    <!-- Buttons -->
+    <string name="button_location">Los Angeles, CA</string>
+    <string name="button_url">yummy-wakame.com</string>
+    <string name="button_phone">855-WWW-YUMMY</string>
+    <string name="button_email">Email Us</string>
+
+
+</resources>
