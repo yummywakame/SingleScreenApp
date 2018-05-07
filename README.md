@@ -1,6 +1,5 @@
+## Grow With Google Android Basics Nanodegree: PROJECT 1
 # Single Screen App
-
-## Android Basics Nanodegree Course: PROJECT 1
 
 Used **API 23: Android 6.0 (Marshmallow)**
 
